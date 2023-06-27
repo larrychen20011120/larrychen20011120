@@ -22,8 +22,8 @@
 
 ## Motto
 > Reputation is what others think of you; charateristic is what you truely are.
-<br>
-> (<i>The King's Man</i>)
+> 
+> (The King's Man)
 
 ## Website
 👉 [**Here is the Link**](https://larrychen20011120.github.io/)
