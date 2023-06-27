@@ -12,8 +12,8 @@
   - 📝 Publish top conference paper
 
 ### Tools and Skills 
-
-![](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50">
 
 ### Motto
 > Reputation is what others think of you; charateristic is what you truely are.
