@@ -13,5 +13,8 @@
 
 ### Tools and Skills 
 
+![](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
+
 ### Motto
-> Reputation is what others think of you; charateristic is what you truely are. --The King's Man
+> Reputation is what others think of you; charateristic is what you truely are.
+> --The King's Man
