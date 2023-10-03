@@ -16,7 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50">&nbsp
 <img src="https://embed.zenn.studio/api/optimize-og-image/166c54c44235f24c5b04/https%3A%2F%2Fdiscuss.pytorch.org%2Fuploads%2Fdefault%2Foriginal%2F2X%2F1%2F15a7e2573aeb9e6ba8995f824d3b63171a433041.png" width="50" height="50">&nbsp
 <img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="50" height="50">&nbsp
-<img src="[https://cdn-icons-png.flaticon.com/512/5968/5968282.png]" width="50" height="50">&nbsp
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" width="50" height="50">&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width="50" height="50">&nbsp
 </div>
 
