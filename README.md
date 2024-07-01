@@ -51,7 +51,7 @@
 
 ### Github Status
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrychen20011120&layout=compact&theme=white" height="200"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=larrychen20011120&show_icons=true&include_all_commits=true&count_private=true&theme=white" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrychen20011120&layout=compact&theme=white" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=larrychen20011120&show_icons=true&include_all_commits=true&count_private=true&theme=white" height="170"/>
 </p>
