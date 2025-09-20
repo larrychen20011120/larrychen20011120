@@ -3,9 +3,9 @@
 
 <h3 align="left">More about me</h3>
 
-- 🔭 My research topic lies on **multi-modal machine learning and data mining**
+- 🔭 My research topic lies on **agentic AI and data mining**
 
-- 🌱 I’m currently learning **more about LLM and backend technics**
+- 🌱 I’m currently learning **more about LLM, reinforcement learning and backend technics**
 
 - 👯 Hope to make contributions to **open source software or project**
 
